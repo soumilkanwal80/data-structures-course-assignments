@@ -1,0 +1,1 @@
+1. All words are assumed to be in lower case
